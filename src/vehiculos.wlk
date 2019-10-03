@@ -5,6 +5,7 @@ object azul {}
 object rojo {}
 object verde {}
 object blanco {}
+object negro {}
 object bordo {}
 object cremita {}
 

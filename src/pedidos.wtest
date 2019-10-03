@@ -1,0 +1,13 @@
+import dependencias.*
+import vehiculos.*
+import pedidos.*
+
+
+describe "Flota de rodados" {
+	test "testX" {
+
+	assert.that(true)
+
+	}
+	
+}
